@@ -1,5 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
+I'm SamyLyy, a student who wants to become a design engineer.
+
+My dream is to once have a software-development start-up.
+
+When I'm not coding, I'm playing Handball, practising Piano, watching Anime or playing games.I also really enjoy writing novels.
+
+#### Facts about me:
+-My favourite Animes are Lycoris Recoil, Oshi no Ko and Bunny Girl Senpai
+-My favourite games are Hollow Knight and Zelda BOTW
 <!--
 **SamyLyy/SamyLyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
