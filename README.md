@@ -4,7 +4,7 @@ I'm SamyLyy, a student from Germany who wants to become a design engineer.
 
 My dream is to once have a software-development start-up.
 
-When I'm not coding, I'm playing Handball, practising Piano, watching Anime or playing games.I also really enjoy writing novels.
+When I'm not coding, I'm playing Handball, practising Piano, watching Anime or playing games. I also really enjoy writing novels.
 
 #### Facts about me:
 -My favourite Animes are Lycoris Recoil, Oshi no Ko and Bunny Girl Senpai
