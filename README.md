@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm SamyLyy, a student from Germany who wants to become a design engineer.
+I'm SamyLyy, a student from Germany who wants to become a Software engineer.
 
 My dream is to once have a software-development start-up.
 
